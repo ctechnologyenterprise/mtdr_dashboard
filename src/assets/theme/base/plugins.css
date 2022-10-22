@@ -1,0 +1,184 @@
+/* Full Calendar */
+
+.fc-toolbar-title {
+  color: white !important;
+}
+a.fc-daygrid-day-number {
+  width: 100%;
+  text-align: center;
+}
+a.fc-daygrid-day-number {
+  width: 100%;
+  text-align: center;
+}
+a.fc-daygrid-day-number {
+  width: 100%;
+  text-align: center;
+}
+div.fc-daygrid-event-harness {
+  top: unset;
+}
+.fc-daygrid-event-harness .fc-daygrid-event-harness-abs {
+  top: 0px;
+  bottom: unset;
+}
+.fc .fc-scrollgrid-section-header > *,
+.fc .fc-scrollgrid-section-footer > * {
+  border-right: 0px !important;
+}
+.fc-theme-standard .fc-scrollgrid {
+  border: 0px solid transparent !important;
+}
+
+.fc-col-header-cell.fc-day.fc-day-mon {
+  color: white;
+  border-right: 0px;
+  border-left: 0px;
+}
+.fc-col-header-cell.fc-day.fc-day-tue {
+  color: white;
+  border-left: 0px;
+  border-right: 0px;
+}
+.fc-col-header-cell.fc-day.fc-day-wed {
+  color: white;
+  border-right: 0px;
+  border-left: 0px;
+}
+.fc-col-header-cell.fc-day.fc-day-thu {
+  color: white;
+  border-left: 0px;
+  border-right: 0px;
+}
+.fc-col-header-cell.fc-day.fc-day-fri {
+  color: white;
+  border-right: 0px;
+  border-left: 0px;
+}
+.fc-col-header-cell.fc-day.fc-day-sat {
+  color: white;
+  border-left: 0px;
+  border-right: 0px;
+}
+.fc-col-header-cell.fc-day.fc-day-sun {
+  color: white;
+  border-left: 0px;
+  border-right: 0px;
+}
+
+.fc-daygrid-event {
+  border-radius: 10px !important;
+  text-align: center !important;
+  font-family: "Plus Jakarta Display" !important;
+}
+.fc-day {
+  color: white;
+}
+.fc-day.fc-day-mon {
+  border: 1px solid !important;
+  border-color: #292e5d !important;
+}
+.fc-day.fc-day-tue {
+  border: 1px solid !important;
+  border-color: #292e5d !important;
+}
+.fc-day.fc-day-wed {
+  border: 1px solid !important;
+  border-color: #292e5d !important;
+}
+.fc-day.fc-day-thu {
+  border: 1px solid !important;
+  border-color: #292e5d !important;
+}
+.fc-day.fc-day-fri {
+  border: 1px solid !important;
+  border-color: #292e5d !important;
+}
+.fc-day.fc-day-sat {
+  border: 1px solid !important;
+  border-color: #292e5d !important;
+}
+.fc-day.fc-day-sun {
+  border: 1px solid !important;
+  border-color: #292e5d !important;
+}
+
+.fc-scrollgrid.fc-scrollgrid-liquid > td {
+  border: 0px;
+}
+
+.fc .fc-scrollgrid-section > td {
+  border: 0;
+}
+
+/* React Kanban */
+body .react-kanban-column {
+  background: linear-gradient(
+    127.09deg,
+    rgba(6, 11, 40, 0.94) 19.41%,
+    rgba(10, 14, 35, 0.49) 76.65%
+  );
+  background-color: unset !important;
+  border-radius: 15px;
+}
+.react-kanban-column {
+  width: 500px;
+}
+.react-kanban-card-adder-form {
+  width: 100%;
+  background-color: red;
+  border-radius: 15px;
+}
+.react-kanban-card-adder-button {
+  display: none;
+  background-color: red !important;
+  border-radius: 15px;
+}
+
+/* Text Editor */
+
+body .ql-toolbar.ql-snow {
+  background-color: #0f1535 !important;
+  border: 0.5px solid #e2e8f04d;
+}
+
+body .ql-container.ql-snow {
+  background-color: #0f1535 !important;
+  border: 0.5px solid #e2e8f04d;
+}
+
+body .ql-snow .ql-picker-label {
+  color: rgba(255, 255, 255, 0.92) !important;
+}
+
+body .ql-snow .ql-stroke {
+  stroke: rgba(255, 255, 255, 0.92) !important;
+}
+
+body .ql-snow .ql-fill {
+  fill: rgba(255, 255, 255, 0.92) !important;
+}
+
+/* .ql-snow .ql-picker-label:hover {
+    color: rgba(255, 255, 255, 0.92) !important;
+  }
+  
+  .ql-snow .ql-stroke:hover {
+    stroke: rgba(255, 255, 255, 0.92) !important;
+  }
+  
+  .ql-snow .ql-fill:hover {
+    fill: rgba(255, 255, 255, 0.92) !important;
+  } */
+
+.ql-picker-options {
+  background: #0f1535 !important;
+  border: 0.5px solid #e2e8f04d;
+}
+
+.ql-container.ql-snow {
+  color: rgb(160, 174, 192);
+  min-height: 88px !important;
+  border-bottom-left-radius: 15px !important;
+  border-bottom-right-radius: 15px !important;
+}
